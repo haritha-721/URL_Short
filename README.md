@@ -11,7 +11,7 @@ URL Shortener Web Application is a user-friendly web-based tool that allows user
 - User-friendly Interface: Intuitive and responsive UI design for a seamless user experience.
 
 ## Demo
-C:\Users\DELL\OneDrive\harithas\OneDrive\Pictures\pics
+C:\Users\DELL\OneDrive\harithas\OneDrive\Pictures\pics\Screenshot (1).jpg
 
 ## Live Demo
 Try out the live demo of the URL Shortener Web Application [here](https://lightlink.vercel.app).
